@@ -8,3 +8,7 @@ for(let i =0;i<arr.length;i++)
 
 //task 11
 
+arr.forEach(function(element)
+{
+    console.log(element);
+});
